@@ -7,6 +7,10 @@
   font-weight: 500;
 }
 
+body, html {
+  background: #363636;
+}
+
 #head {
   height: 70px;
 }
