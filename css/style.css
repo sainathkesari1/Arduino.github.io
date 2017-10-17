@@ -2,17 +2,12 @@
   -webkit-font-smoothing: antialiased;
 }
 
-.headtitle {
-  font-size: 25pt;
-  font-weight: 500;
-}
-
 body, html {
   background: #363636;
 }
 
 #head {
-  height: 70px;
+  min-height: 70px;
 }
 
 .row-buttons {
