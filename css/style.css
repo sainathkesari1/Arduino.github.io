@@ -1,0 +1,16 @@
+* {
+  -webkit-font-smoothing: antialiased;
+}
+
+.headtitle {
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+#head {
+  height: 70px;
+}
+
+.row-buttons {
+  line-height: 40px;
+}
